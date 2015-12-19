@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentSimpleUsage</string>
+    <string name="app_title">Fragment Simple Usage</string>
+    <string name="btn_previous_title">Previous Fragment</string>
+    <string name="btn_next_title">Next Fragment</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fragment_a_title">Fragment A</string>
+    <string name="fragment_b_title">Fragment B</string>
+    <string name="fragment_c_title">Fragment C</string>
+</resources>
