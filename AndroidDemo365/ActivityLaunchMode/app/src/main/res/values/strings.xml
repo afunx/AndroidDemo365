@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityLaunchMode</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="title_activity_activity_a">ActivityA</string>
+    <string name="title_activity_activity_c">ActivityC</string>
+    <string name="title_activity_activity_d">ActivityD</string>
+    <string name="title_activity_single_task">ActivitySingleTask</string>
+</resources>
