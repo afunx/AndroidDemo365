@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActionBarUsage</string>
+    <string name="item_always">Item always</string>
+    <string name="item_never">Item never</string>
+    <string name="item_if_room">Item ifRoom</string>
+    <string name="item_always_is_clicked">Item always is clicked</string>
+    <string name="item_never_is_clicked">Item never is clicked</string>
+    <string name="item_if_room_is_clicked">Item ifRoom is clicked</string>
+</resources>
